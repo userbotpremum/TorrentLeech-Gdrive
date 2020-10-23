@@ -1,6 +1,6 @@
 {
-  "name": "Telegram Torrent Leecher",
-  "description": "A Telegram Torrent (and youtube-dl) Leecher based on Pyrogram. Powered by @torrentleechgdrivesupport!",
+  "name": "@IamShubham @honey66",
+  "description": "A Telegram Torrent (and youtube-dl) Leecher based on Pyrogram. Powered by @honey66",
   "keywords": [
     "telegram"
   ],
@@ -13,24 +13,24 @@
       "value": "ANYTHING"
     },
     "APP_ID": {
-      "description": "Get this value from https://my.telegram.org",
+      "description": "1206485",
       "value": ""
     },
     "API_HASH": {
-      "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "description": "2897112fa3a92f6fcc61c73d6e2904c9",
+      "value": "True"
     },
     "TG_BOT_TOKEN": {
-      "description": "get this value from @BotFather",
-      "value": ""
+      "description": "1303270013:AAExm4N8F4kukIpsM-qoXdkDqQfMdTZxvjQ",
+      "value": "True"
     },
     "AUTH_CHANNEL": {
-      "description": "should be an integer. The BOT API ID of the Telegram Group, where the Leecher should work.",
-      "value": ""
+      "description": "-352903636",
+      "value": "True"
     },
     "OWNER_ID": {
-      "description": "should be an integer. ID of owner of bot",
-      "value": ""
+      "description": "1167961858",
+      "value": "True"
     },
     "UPLOAD_AS_DOC": {
       "description": "True/False. If true all files will be uploaded as documents. Default is False.",
@@ -52,8 +52,8 @@
       "required": false
     },
     "MAX_TIME_TO_WAIT_FOR_TORRENTS_TO_START": {
-      "description": "should be an integer. Number of seconds to wait before cancelling a torrent.",
-      "required": false
+      "description": "500",
+      "required": True
     },
     "FINISHED_PROGRESS_STR": {
       "description": "should be a single character.",
